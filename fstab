@@ -1,0 +1,2 @@
+# UUID=<UUID> /mnt/c ntfs-3g nosuid,nodev,nofail,x-gvfs-show 0 0
+# UUID=<UUID> /mnt/d ntfs-3g nosuid,nodev,nofail,x-gvfs-show 0 0
