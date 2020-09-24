@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# environment setup https://medium.com/@chaudharypulkit93/my-coding-environment-setup-from-scratch-on-ubuntu-18-04-cedf30981042
+# grid workspace http://ubuntuhandbook.org/index.php/2019/12/enable-workspace-grid-ubuntu-18-04-19-10/
+# input method google pinyin https://github.com/junxnone/Linux/issues/57
+
 # ~/.bashrc https://gist.github.com/ChenTanyi/8bdb39fb9fcadbd1c9307a83d0874f07
 # azure.bashrc https://gist.github.com/ChenTanyi/bdf9f3b86baf2ffaea0921a03c89a028
 
@@ -11,3 +15,7 @@
 # ~/.style.yapf https://gist.github.com/ChenTanyi/fa37e1aea64c15d90554675dca422634
 
 # ngrok https://ngrok.com/
+
+sudo apt install net-tools
+sudo apt install mpv
+sudo apt install gnome-tweaks
