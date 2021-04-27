@@ -19,3 +19,4 @@
 sudo apt install net-tools
 sudo apt install mpv
 sudo apt install gnome-tweaks
+sudp apt remove update-notifier
